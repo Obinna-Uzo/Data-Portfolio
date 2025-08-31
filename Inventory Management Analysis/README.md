@@ -1,1 +1,3 @@
-
+- Queried Inventory Management Dataset with SQL analyze stock  and inventory levels, supplier and restocking performance, cost and pricing.
+- Visualized some of the queries using excel for more context.
+- Provided insights that could inform which products to prioritize for restocking, which suppliers to monitor, how to prepare for seasonal demand, and where costs are concentrated. 
