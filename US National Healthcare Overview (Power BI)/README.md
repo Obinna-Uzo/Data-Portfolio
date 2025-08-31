@@ -1,1 +1,4 @@
-
+- As part of the April Onyx DataDNA Challenge, I analyzed a real hospital data of 55,000 patients across 10 hospitals 
+- Highlighted KPIs such as average billing (~25k), admission rates, and hospital utilization.
+- Built an interactive dashboard for patient distribution, billing analysis, and hospital performance. 
+- Provided insights to support data-driven healthcare management.
