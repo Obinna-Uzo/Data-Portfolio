@@ -1,4 +1,4 @@
-# 🏥 Healthcare Patient Analysis  
+# 🏥 Healthcare Analysis  
 
 ## 📌 Problem  
 A healthcare organization wants to analyze patient records to understand disease distribution, vaccination uptake, treatment outcomes, and financial performance across different states. This analysis will support better healthcare service delivery, optimize vaccination programs, and enhance patient satisfaction.  
