@@ -13,7 +13,7 @@ For this challenge, I worked with real hospital data from 10 hospitals across th
 
 - Treatment costs exceed $25K on average, regardless of insurance provider. Medications such as Aspirin, Ibuprofen, Lipitor, and Paracetamol are evenly distributed across conditions, emphasizing standardized treatment approaches.
 
- -Patient admissions rose by 7.5% in 2024, adding 3,854 more cases compared to the previous years. Interestingly, average billing and length of stay remained stable despite the increase in patients.
+ - Patient admissions rose by 7.5% in 2024, adding 3,854 more cases compared to the previous years. Interestingly, average billing and length of stay remained stable despite the increase in patients.
 
 - Top U.S. hospitals like Cedars-Sinai, Cleveland Clinic, and Johns Hopkins handle the highest patient loads while maintaining consistent billing and test result patterns.
 
