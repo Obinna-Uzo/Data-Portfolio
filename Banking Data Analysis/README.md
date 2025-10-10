@@ -28,14 +28,14 @@ Power BI → Data cleaning, visualization & dashboards
 ---
 
 ## 🔎 Approach
-Data Cleaning
-Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
 ---
 ## 📈 Key Insights
 Here are a few insights the dashboard uncovered:
 
-# 📊 Customer Insights
+### 📊 Customer Insights
 
 - 8,025 customers analyzed, with an average monthly income of €5,454
 
@@ -45,7 +45,7 @@ Here are a few insights the dashboard uncovered:
 
 - Highest credit activity in the 300–579 score range (10,060 transactions)
 
-# 💼 Executive View
+### 💼 Executive View
 
 - Over €101M in total transaction volume across 20,000 transactions
 
@@ -53,7 +53,7 @@ Here are a few insights the dashboard uncovered:
 
 - Unfortunately, fee revenues dropped sharply YoY, with -60% declines across the board — a clear signal for further executive review
 
-# 📍 Regional Analysis
+### 📍 Regional Analysis
 
 - Barcelona led all cities with €13M in transaction value
 
