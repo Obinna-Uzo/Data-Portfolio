@@ -1,17 +1,16 @@
 # Data-Portfolio
 My Data Analysis and Power BI Projects
-# Obinna Uzo – Data Analytics Portfolio 📊
+# Obinna Uzo – Data Analytics Portfolio 
 
-Welcome to my data analytics portfolio! 🚀  
+Welcome to my data analytics portfolio! 
 Here, I showcase projects where I apply Excel, Power BI and SQL to turn raw data into actionable insights.  
 
 Each project folder contains:  
-- 📊 **Dashboard/Report** (Power BI `.pbix` or PDF export)  
-- 📂 **Dataset** (if available for sharing)  
-- 📝 **Project summary** explaining the problem, approach, and key findings  
+-  **Dashboard/Report** (Power BI `.pbix` or PDF export)   
+-  **Project summary** explaining the problem, approach, and key findings  
 ---
 
-## 🔑 Featured Projects  
+##  Featured Projects  
 
 ### 1. US National Healthcare Overview (Power BI)  
 
@@ -24,7 +23,7 @@ Each project folder contains:
 ### 5. Healthcare Dashboard (Power BI)
 
 
-## 🛠️ Tools & Skills  
+##  Tools & Skills  
 - **Power BI**: DAX, Power Query, Data Modeling, Dashboard Design  
 - **SQL**: Data cleaning, querying, aggregations  
 - **Python**: Pandas, Matplotlib for analysis/visuals  
@@ -32,10 +31,9 @@ Each project folder contains:
 
 ---
 
-## 📬 Contact Me  
+##  Contact Me  
 - **Email:** uzoobinna18@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/obinna-uzo-b19239234/
-- **Portfolio (Visual):** [Canva Portfolio Link](https://www.canva.com)  
+- **LinkedIn:** https://www.linkedin.com/in/obinna-uzo-b19239234/ 
 
 ---
 
