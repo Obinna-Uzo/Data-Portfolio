@@ -1,4 +1,4 @@
-### My submission for Onyx Data hashtag#DataDNA Challenge. 
+### My submission for Onyx Data DNA Challenge. 
 For this challenge, I worked with real hospital data from 10 hospitals across the United States involving 55,500 patients to look out for trends in admissions, billing, conditions, demographics, and more.
 
 ## Here are a few insights I uncovered:
