@@ -1,11 +1,11 @@
-**🏥 Banking Data Analysis**
+# 🏥 Banking Data Analysis
 
-##📌 Problem
+## 📌 Problem
 A bank wants to analyze a comprehensive banking dataset that simulates internal transaction data used by financial institutions to understand customer behaviour, optimize services, and inform strategic planning.
 
 ---
 
-##📂 Data Description
+## 📂 Data Description
 This dataset contains 20,000 enriched financial transactions across products like checking accounts, loans, mortgages, and card payments. Each record is embedded with detailed attributes such as:
 - Customer income brackets and credit scores
 - Transaction types, fees, and amounts
@@ -22,20 +22,20 @@ The goal is to extract patterns, segment behaviours, and revenue drivers that ba
 
 ---
 
-##🛠️ Tools & Skills
+## 🛠️ Tools & Skills
 Power BI → Data cleaning, visualization & dashboards
 
 ---
 
-##🔎 Approach
+## 🔎 Approach
 Data Cleaning
 Exploratory Data Analysis (EDA)
 
 ---
-##📈 Key Insights
+## 📈 Key Insights
 Here are a few insights the dashboard uncovered:
 
-#📊 Customer Insights
+# 📊 Customer Insights
 
 - 8,025 customers analyzed, with an average monthly income of €5,454
 
@@ -45,7 +45,7 @@ Here are a few insights the dashboard uncovered:
 
 - Highest credit activity in the 300–579 score range (10,060 transactions)
 
-#💼 Executive View
+# 💼 Executive View
 
 - Over €101M in total transaction volume across 20,000 transactions
 
@@ -53,7 +53,7 @@ Here are a few insights the dashboard uncovered:
 
 - Unfortunately, fee revenues dropped sharply YoY, with -60% declines across the board — a clear signal for further executive review
 
-#📍 Regional Analysis
+# 📍 Regional Analysis
 
 - Barcelona led all cities with €13M in transaction value
 
@@ -63,7 +63,7 @@ Here are a few insights the dashboard uncovered:
 
 ---
 
-##🎯 Impact
+## 🎯 Impact
 This analysis will help the bank to:
 - Understand how different customer segments behave financially
 - Identify high-fee and high-risk patterns for cost control and opportunity
@@ -72,6 +72,6 @@ This analysis will help the bank to:
 
 ---
 
-##📸 Visuals (Optional)
+## 📸 Visuals (Optional)
 (Add charts, Power BI dashboards, or Matplotlib plots here)
 
