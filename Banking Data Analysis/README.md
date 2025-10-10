@@ -1,4 +1,4 @@
-#🏥 Banking Data Analysis
+**🏥 Banking Data Analysis**
 
 ##📌 Problem
 A bank wants to analyze a comprehensive banking dataset that simulates internal transaction data used by financial institutions to understand customer behaviour, optimize services, and inform strategic planning.
