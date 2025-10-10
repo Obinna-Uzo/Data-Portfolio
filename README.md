@@ -21,6 +21,8 @@ Each project folder contains:
 
 ### 4. Healthcare Analysis (Power BI)  
 
+### 5. Healthcare Dashboard (Power BI)
+
 
 ## 🛠️ Tools & Skills  
 - **Power BI**: DAX, Power Query, Data Modeling, Dashboard Design  
