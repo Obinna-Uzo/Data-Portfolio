@@ -72,6 +72,10 @@ This analysis will help the bank to:
 
 ---
 
+### Link to interactive dashboard:  https://lnkd.in/e4TNkRjB
+
+---
+
 ## 📸 Visuals
 <img width="664" height="407" alt="image" src="https://github.com/user-attachments/assets/ea4b32e8-78a8-476c-a8cf-63e587df718f" />
 <img width="666" height="409" alt="image" src="https://github.com/user-attachments/assets/8d433ce0-1152-4ffe-8969-b036fbcf9119" />
