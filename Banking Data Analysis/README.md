@@ -1,4 +1,4 @@
-# 🏥 Banking Data Analysis
+# Banking Data Analysis
 
 ## 📌 Problem
 A bank wants to analyze a comprehensive banking dataset that simulates internal transaction data used by financial institutions to understand customer behaviour, optimize services, and inform strategic planning.
@@ -72,6 +72,11 @@ This analysis will help the bank to:
 
 ---
 
-## 📸 Visuals (Optional)
-(Add charts, Power BI dashboards, or Matplotlib plots here)
+## 📸 Visuals
+<img width="664" height="407" alt="image" src="https://github.com/user-attachments/assets/ea4b32e8-78a8-476c-a8cf-63e587df718f" />
+<img width="666" height="409" alt="image" src="https://github.com/user-attachments/assets/8d433ce0-1152-4ffe-8969-b036fbcf9119" />
+<img width="618" height="350" alt="image" src="https://github.com/user-attachments/assets/9a7b38e4-f8c3-4e8f-ab3f-7c8ca8876522" />
+
+
+
 
