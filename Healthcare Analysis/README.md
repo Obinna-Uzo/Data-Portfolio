@@ -45,7 +45,10 @@ This analysis enables healthcare providers to:
 ---
 
 ## 📸 Visuals (Optional)  
-*(Add charts, Power BI dashboards, or Matplotlib plots here)*  
-<img width="619" height="402" alt="image" src="https://github.com/user-attachments/assets/c9365603-b83b-41b8-8f61-932cc1fa17c3" />
+<img width="620" height="401" alt="Screenshot 2025-10-10 103553" src="https://github.com/user-attachments/assets/98730219-ad86-4bd9-af5a-b70f65df1be9" />
+<img width="619" height="402" alt="Screenshot 2025-10-10 103702" src="https://github.com/user-attachments/assets/e55383a4-016f-4157-861c-ca5ce9b43689" />
+<img width="619" height="402" alt="Screenshot 2025-10-10 103903" src="https://github.com/user-attachments/assets/6b3bba9e-c2d3-4dbf-afa8-aaf718a49c87" />
+
+
 
 ---
