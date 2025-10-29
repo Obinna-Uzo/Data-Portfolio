@@ -20,7 +20,7 @@ Each project folder contains:
 
 ### 4. Healthcare Analysis (Power BI)  
 
-### 5. Healthcare Dashboard (Power BI)
+### 5. Healthcare Dashboard - DSN AI Bootcamp Qualification Project (Power BI)
 
 ### 6. Coffee Sales Analysis (Python)
 
