@@ -22,6 +22,8 @@ Each project folder contains:
 
 ### 5. Healthcare Dashboard (Power BI)
 
+### 6. Coffee Sales Analysis (Python)
+
 
 ##  Tools & Skills  
 - **Power BI**: DAX, Power Query, Data Modeling, Dashboard Design  
